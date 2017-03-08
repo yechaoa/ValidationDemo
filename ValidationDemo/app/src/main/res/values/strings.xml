@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ValidationDemo</string>
+    <string name="errorMessage">不能为空</string>
+</resources>
